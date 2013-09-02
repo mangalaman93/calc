@@ -1,4 +1,4 @@
 calc
 ====
 
-Android Calculator
+Android Calculator Application
